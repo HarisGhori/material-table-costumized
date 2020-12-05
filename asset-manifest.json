@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/material-table-costumized/static/css/main.9791b2e2.chunk.css",
+    "main.js": "/material-table-costumized/static/js/main.3203cb25.chunk.js",
+    "main.js.map": "/material-table-costumized/static/js/main.3203cb25.chunk.js.map",
+    "runtime-main.js": "/material-table-costumized/static/js/runtime-main.292038b8.js",
+    "runtime-main.js.map": "/material-table-costumized/static/js/runtime-main.292038b8.js.map",
+    "static/js/2.cb433234.chunk.js": "/material-table-costumized/static/js/2.cb433234.chunk.js",
+    "static/js/2.cb433234.chunk.js.map": "/material-table-costumized/static/js/2.cb433234.chunk.js.map",
+    "static/js/3.af4674d6.chunk.js": "/material-table-costumized/static/js/3.af4674d6.chunk.js",
+    "static/js/3.af4674d6.chunk.js.map": "/material-table-costumized/static/js/3.af4674d6.chunk.js.map",
+    "static/js/4.1b2459d1.chunk.js": "/material-table-costumized/static/js/4.1b2459d1.chunk.js",
+    "static/js/4.1b2459d1.chunk.js.map": "/material-table-costumized/static/js/4.1b2459d1.chunk.js.map",
+    "static/js/5.d1400bdf.chunk.js": "/material-table-costumized/static/js/5.d1400bdf.chunk.js",
+    "static/js/5.d1400bdf.chunk.js.map": "/material-table-costumized/static/js/5.d1400bdf.chunk.js.map",
+    "index.html": "/material-table-costumized/index.html",
+    "precache-manifest.c5ee3ea17010a22ecbb06fe59de8ea29.js": "/material-table-costumized/precache-manifest.c5ee3ea17010a22ecbb06fe59de8ea29.js",
+    "service-worker.js": "/material-table-costumized/service-worker.js",
+    "static/css/main.9791b2e2.chunk.css.map": "/material-table-costumized/static/css/main.9791b2e2.chunk.css.map",
+    "static/js/2.cb433234.chunk.js.LICENSE.txt": "/material-table-costumized/static/js/2.cb433234.chunk.js.LICENSE.txt",
+    "static/js/3.af4674d6.chunk.js.LICENSE.txt": "/material-table-costumized/static/js/3.af4674d6.chunk.js.LICENSE.txt",
+    "static/js/4.1b2459d1.chunk.js.LICENSE.txt": "/material-table-costumized/static/js/4.1b2459d1.chunk.js.LICENSE.txt",
+    "static/js/5.d1400bdf.chunk.js.LICENSE.txt": "/material-table-costumized/static/js/5.d1400bdf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.292038b8.js",
+    "static/js/3.af4674d6.chunk.js",
+    "static/css/main.9791b2e2.chunk.css",
+    "static/js/main.3203cb25.chunk.js"
+  ]
+}
